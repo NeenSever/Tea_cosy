@@ -45,3 +45,15 @@ nav span {
     display: inline-block;
     padding: 20px 10px;
 }
+
+#mission {
+    height: 700px;
+    background-image: url(img-mission-background.jpg);
+    padding: 70px;
+}
+
+#mission .content {
+    margin: auto;
+    background-color: black;
+    width: 100%;
+}
