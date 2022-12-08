@@ -32,7 +32,7 @@ header {
 }
 
 header img {
-    height: 50px;
+    min-height: 50px;
     padding-left: 10px;
 }
 
@@ -49,6 +49,7 @@ nav span {
 #mission {
     height: 700px;
     background-image: url(img-mission-background.jpg);
+    background-size: cover;
     padding: 70px;
 }
 
