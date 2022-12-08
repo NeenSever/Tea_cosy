@@ -6,3 +6,27 @@ body {
     font-size: 22px;
     text-align: center;
 }
+
+a {
+    color: seashell;
+}
+
+h2 h3 h4 {
+    margin: 0;
+    padding: 10px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+header {
+    width: 100%;
+    z-index: 1;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    background-color: black;
+    align-items: center;
+}
