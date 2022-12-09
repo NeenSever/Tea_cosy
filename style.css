@@ -29,6 +29,8 @@ header {
     border-bottom: 1px solid seashell;
     background-color: black;
     align-items: center;
+    position: sticky;
+    top: 0;
 }
 
 header img {
